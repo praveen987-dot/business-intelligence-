@@ -1,0 +1,9 @@
+os
+datetime
+sqlite3
+smtplib
+email.mime.text (MIMEText)
+pandas
+matplotlib
+requests
+scikit-learn
